@@ -1,7 +1,7 @@
 
-# Progetto Samuel Di Vaio
+# Progetto AISE
 
-Chatbot sulla vita di J.F.Kennedy
+Assistente per smettere di fumare
 
 ## Features
 
@@ -20,5 +20,5 @@ E' stato scelto **Falcon-7B** come LLM e **all-MiniLM-L6-v2** come Embedding Mod
 La realizzazione della GUI e la sua pubblicazione è avvenuta con **Stramlit**.
 ## Demo
 
-https://chatbotdivaio-v7nksduxwiyl8tuj6snpme.streamlit.app/
+
 
